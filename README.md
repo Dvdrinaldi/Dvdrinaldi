@@ -8,7 +8,8 @@
 <h3 align="center">My Note :</h3>
 - God only gives the best, even if sometimes not as desired. ... Believe me, God has a good plan for your life. <br />
 - This is the real secret of life – to be fully involved with what you are doing in the here and now. And instead of calling it work, realize it's a game. <br/>
-- Ayuk kita belajar bersama... 🤝 👯 👨‍💻 📝 📄 ⚡
+- Ayuk kita belajar bersama... 🤝 👯 👨‍💻 📝 📄 ⚡ <br />
+- Gak ada orang bodoh, yang ada hanya orang yang belum mengetahui dan kita telah terlebih dahulu mengetahui.
 <hr />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dvdrinaldi&label=Profile%20views&color=0e75b6&style=flat" alt="dvdrinaldi" /> </p>
 
